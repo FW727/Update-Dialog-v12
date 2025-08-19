@@ -3,7 +3,7 @@
   "titulo": "New Update Available!",
   "subtitulo": "An important security update is ready to install. Please update now for better experience.",
   "linkupdate": "https://play.google.com/store/apps/details?id=com.tuapp.package",
-  "botonclose": true,
+  "botonclose": false,
   "exitboton": false,
   "closetime": {
     "activo": true,
