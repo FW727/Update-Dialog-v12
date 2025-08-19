@@ -7,6 +7,6 @@
   "exitboton": false,
   "closetime": {
     "activo": true,
-    "timefuncion": "1h"
+    "timefuncion": "72h"
   }
 }
